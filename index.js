@@ -27,4 +27,3 @@ function createFareMultiplier (multiplier) {
 }
 
 
-f
