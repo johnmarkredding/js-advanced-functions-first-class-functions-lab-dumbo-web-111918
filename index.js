@@ -26,4 +26,10 @@ function createFareMultiplier (multiplier) {
   };
 }
 
+function fareDoubler (multiplier) {
+  return function (fare) {
+     return fare * multiplier;
+  };
+}
+
 
