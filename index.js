@@ -26,7 +26,7 @@ function createFareMultiplier (multiplier) {
   };
 }
 
-function fareDoubler (multiplier) {
+function fareDoubler (fare) {
   return function (fare) {
      return fare * multiplier;
   };
