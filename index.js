@@ -29,7 +29,7 @@ function createFareMultiplier (multiplier) {
 const fareDoubler = createFareMultiplier(2);
 const fareTripler = createFareMultiplier(3);
 
-function fetchSpecifiedDrivers (arrayOfDrivers) {
+function fetchSpecifiedDrivers (arrayOfDrivers, func) {
   return 0;
 }
 
