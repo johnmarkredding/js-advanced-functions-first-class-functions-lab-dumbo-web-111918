@@ -26,7 +26,7 @@ function createFareMultiplier (multiplier) {
   };
 }
 
-const function fareDoubler (fare) {
+function fareDoubler (fare) {
   return fare * 2;
 }
 
